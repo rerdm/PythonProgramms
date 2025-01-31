@@ -1,3 +1,3 @@
 # PythonProgramms
 
-This Projekt inlcudes helper klasses for python.
+This projekt inlcudes helper klasses for python programms.
